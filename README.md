@@ -1,1 +1,1 @@
-# dna-excersize-java
+# dna-exercise-java
